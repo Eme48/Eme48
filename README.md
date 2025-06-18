@@ -45,7 +45,7 @@
 
 ### 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emersonrios/)
-- 📬 emersonrios.contacto@gmail.com *(o tu correo profesional)*
+- 📬 rios.emerson29@hotmail.com
 
 ---
 
