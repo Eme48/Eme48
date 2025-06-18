@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Current Projects
-- 📊 **Data Science Bootcamp @ TripleTen** – Sprint 7/8  
+- 📊 **Data Science Bootcamp @ TripleTen** – Sprint 7  
 - 💼 **Industrial Equipment Liquidation** – Full-cycle ops & automation  
 - 🔬 **Clinical Research Training** – Diploma completed (ICH-GCP, patient safety, monitoring)  
 - 📚 Writing a guidebook for adults with ADHD  
