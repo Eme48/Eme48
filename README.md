@@ -10,7 +10,7 @@
 - 🧩 **TripleTen Data Science Bootcamp** – Developing end-to-end projects in Python, SQL, and Machine Learning.  
 - ⚙️ **Workflow Automation** – Creating tools with Airtable, Zapier, and APIs to optimize operational efficiency.  
 - 🔬 **Clinical Research & Data Monitoring** – Exploring data-driven approaches to documentation and study quality tracking.  
-- 🎮 **Creative Tech Background** – Game Development specialization (Technológico de Monterrey) → strong systems and UX thinking.
+- 🎮 **Creative Tech Background** – Game Development specialization (Tecnológico de Monterrey) → strong systems and UX thinking.
 
 ---
 
