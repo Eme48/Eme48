@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Emerson Ríos
 
-🎯 **Project Coordinator | Data Analyst | Automation & Research Enthusiast**  
-🌎 Based in Guadalajara, México | Open to Remote Roles  
+🎯 **Project Coordinator | Data Analyst | Process & Automation Enthusiast**  
+🌎 Based in Guadalajara, México  |  Open to Remote Roles  
 
 ---
 
 ### 🚀 Current Focus
-- 📊 **Data Science Bootcamp @ TripleTen** – Building end-to-end analytical projects (Python, SQL, ML)  
-- 💼 **Process Optimization & Automation** – Streamlining workflows using Airtable, Zapier, and APIs  
-- 🔬 **Clinical Research & Data Monitoring** – Applying analytical methods to research documentation  
-- 🧠 **ADHD Awareness Project** – Writing a guidebook & content strategy for neurodivergent professionals  
+- 📊 **Data Science & Project Management** – Combining analytical thinking with structured execution to improve decision-making.  
+- 🧩 **TripleTen Data Science Bootcamp** – Developing end-to-end projects in Python, SQL, and Machine Learning.  
+- ⚙️ **Workflow Automation** – Creating tools with Airtable, Zapier, and APIs to optimize operational efficiency.  
+- 🔬 **Clinical Research & Data Monitoring** – Exploring data-driven approaches to documentation and study quality tracking.  
+- 🎮 **Creative Tech Background** – Game Development specialization (Technológico de Monterrey) → strong systems and UX thinking.
 
 ---
 
@@ -17,28 +18,31 @@
 **Languages:** Python, SQL, Markdown  
 **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
 **Automation:** Airtable, Tasker, AutoResponderWA, Zapier  
-**Project Tools:** Google Workspace, Notion, HubSpot, Slack  
-**Soft Skills:** Bilingual (EN/ES), Leadership, Client Communication, Process Optimization  
+**Project Tools:** Notion, Google Workspace, HubSpot, Slack, Jira  
+**Soft Skills:** Bilingual (EN/ES), Leadership, Stakeholder Communication, Process Optimization  
 
 ---
 
 ### 📦 Selected Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧭 **Zuber Ride Analysis** | Exploratory data analysis for urban mobility insights | Python, Pandas, Matplotlib |
-| 🏦 **BetaBank Churn Prediction** | Customer churn model with supervised learning | Python, scikit-learn |
-| 📡 **Streamlit Dashboard** | Interactive visualization for data storytelling | Streamlit, Pandas, Seaborn |
-| ⚗️ **Gold Recovery Process** | Predictive modeling for industrial optimization | Python, NumPy, sklearn |
+| 🧊 **ICE Sales Analysis** | Exploratory data analysis of sales performance and seasonality | Python, Pandas, Matplotlib |
+| 💡 **Megaline Tariff Analysis** | Statistical testing to compare and optimize mobile plans | Python, SciPy, Matplotlib |
+| 📡 **Streamlit Dashboard** | Interactive app for visualizing used-car listings and trends | Streamlit, Pandas, Seaborn |
+| ⚗️ **Gold Recovery Process** | Predictive modeling to optimize industrial gold recovery | Python, NumPy, scikit-learn |
+| 🎮 **Critter-Thieves (Game Dev)** | 2D platformer developed in Unity during Digital Arts degree | Unity, C#, Adobe CC |
 
 ---
 
 ### 📈 2025 Goals
-- Expand project portfolio with dashboards and real datasets  
-- Strengthen cross-functional skills (PM + Data + Research)  
-- Join a remote team focused on data-driven strategy and innovation  
+- Consolidate advanced data projects with clear business impact and automation components.  
+- Strengthen cross-functional expertise in **Project Management & Data Strategy**.  
+- Join a remote team focused on data-driven decision making and process innovation.  
 
 ---
 
 ### 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emersonrios/)  
-- 💻 [GitHub](https://github.com/emersonrios)
+- 💻 [GitHub](https://github.com/emersonrios)  
+
+> *Bridging creativity, analytics, and structure to make systems work smarter.*
